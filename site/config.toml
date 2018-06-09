@@ -61,7 +61,7 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = "Bonjour"
+    title = "Salut"
     subtitle = "Je modifie directement le texte dans le fichier config.toml"
 
   [params.wrapper]
